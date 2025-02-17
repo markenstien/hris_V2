@@ -54,11 +54,11 @@
 
         case 'up':
             define('URL' , 'https://korpee.app');
-            define('DBVENDOR' , 'mysql');
-            define('DBHOST' , 'localhost');
-            define('DBUSER' , 'korpzpru_korpee');
-            define('DBPASS' , '2;l],C1R[2Xm');
-            define('DBNAME' , 'korpzpru_korpee');
+            define('DBVENDOR' , '');
+            define('DBHOST' , '');
+            define('DBUSER' , '');
+            define('DBPASS' , '');
+            define('DBNAME' , '');
 
             define('BASECONTROLLER' , 'Login');
             define('BASEMETHOD' , 'index');
